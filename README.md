@@ -1,2 +1,2 @@
 # Movie-Recommendation-System
-An AI system for movie recommendation created using Collaborative Filtering in Python.
+An AI system for movie recommendation created using Collaborative Filtering in Jupyter Notebook.
